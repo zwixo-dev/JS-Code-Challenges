@@ -16,11 +16,13 @@ body {
   font-family: Arial, sans-serif;
 }
 
-h1 {
+h1, h2{
   margin-bottom: 20px;
   color: #333;
 }
-
+h2 strong{
+    color: #0056b3;
+}
 form {
   background: white;
   padding: 25px 30px;
